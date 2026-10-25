@@ -1,6 +1,10 @@
 ---
 name: harness
-description: Structured execution harness that wraps any coding or design task in a disciplined gate-driven loop. Always on. Use for any task that changes code, config, content, or infrastructure.
+version: 1.0.0
+description: "Structured execution harness that wraps any coding or design task in a disciplined gate-driven loop. Always on. Use for any task that changes code, config, content, or infrastructure."
+metadata:
+  requires:
+    bins: []
 ---
 
 # Harness
